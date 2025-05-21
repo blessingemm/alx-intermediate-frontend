@@ -1,0 +1,10 @@
+Steps to install SASS
+1. Navigated to my project directory:
+   \$ cd ~/Desktop/alx-intermediate-frontend
+
+2. Created a new directory:
+   \$ mkdir 0x03-sass_scss
+   \$ cd 0x03-sass_scss
+
+3. Installed SASS using npm:
+   \$ npm install sass
